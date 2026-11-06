@@ -1,0 +1,4 @@
+machine_id,planned_minutes,downtime_minutes,downtime_rate
+M1,14400.0,900.0,0.0625
+M2,14400.0,2400.0,0.16666666666666666
+M3,14400.0,600.0,0.041666666666666664

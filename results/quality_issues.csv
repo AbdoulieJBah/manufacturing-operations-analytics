@@ -1,0 +1,8 @@
+source_table,record_id,issue
+production,R011,exact duplicate replay removed
+production,BAD_KEY,"invalid key, unit, quantity or date; quarantined"
+production,BAD_UNIT,"invalid key, unit, quantity or date; quarantined"
+production,BAD_WASTE,"invalid key, unit, quantity or date; quarantined"
+downtime,BAD_TIME,missing run or invalid interval; quarantined
+downtime,BAD_RUN,missing run or invalid interval; quarantined
+deliveries,BAD_DATE,"invalid order, quantity or delivery date; quarantined"

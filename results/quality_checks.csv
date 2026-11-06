@@ -1,0 +1,16 @@
+check_name,failures
+production unique IDs,0
+downtime unique IDs,0
+order unique IDs,0
+delivery unique IDs,0
+dimension unique IDs,0
+production keys,0
+production quantities units dates,0
+downtime intervals,0
+downtime overlapping intervals,0
+run downtime exceeds planned,0
+delivery must be single full shipment,0
+delivery date sequence,0
+orders due date sequence,0
+order mart unique grain,0
+fact date coverage,0

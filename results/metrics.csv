@@ -1,0 +1,11 @@
+metric,value
+planned_minutes,43200.0
+downtime_minutes,3900.0
+downtime_rate,0.09027777777777778
+input_kg,90000.0
+waste_kg,3600.0
+waste_rate,0.04
+delivered_orders,32
+on_time_orders,24
+on_time_rate,0.75
+outstanding_overdue_orders,8

@@ -1,0 +1,42 @@
+{
+  "as_of": "2026-10-31",
+  "status": "PASS",
+  "checks": {
+    "production unique IDs": 0,
+    "downtime unique IDs": 0,
+    "order unique IDs": 0,
+    "delivery unique IDs": 0,
+    "dimension unique IDs": 0,
+    "production keys": 0,
+    "production quantities units dates": 0,
+    "downtime intervals": 0,
+    "downtime overlapping intervals": 0,
+    "run downtime exceeds planned": 0,
+    "delivery must be single full shipment": 0,
+    "delivery date sequence": 0,
+    "orders due date sequence": 0,
+    "order mart unique grain": 0,
+    "fact date coverage": 0
+  },
+  "expected_metrics": {
+    "planned_minutes": 43200,
+    "downtime_minutes": 3900,
+    "downtime_rate": 0.09027777777777778,
+    "input_kg": 90000,
+    "waste_kg": 3600,
+    "waste_rate": 0.04,
+    "delivered_orders": 32,
+    "on_time_orders": 24,
+    "on_time_rate": 0.75,
+    "outstanding_overdue_orders": 8
+  },
+  "raw_rows": {
+    "machine": 3,
+    "product": 2,
+    "production": 94,
+    "downtime": 182,
+    "orders": 40,
+    "deliveries": 33
+  },
+  "notes": "SQL and Python controls passed; Power BI/DAX not executed."
+}
