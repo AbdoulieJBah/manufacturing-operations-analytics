@@ -1,0 +1,183 @@
+event_id,run_id,start_minute,end_minute,reason
+E011a,R011,60,80,Setup
+E011b,R011,300,310,Material wait
+E012a,R012,60,130,Breakdown
+E012b,R012,300,310,Material wait
+E013a,R013,60,70,Setup
+E013b,R013,300,310,Material wait
+E021a,R021,60,80,Setup
+E021b,R021,300,310,Material wait
+E022a,R022,60,130,Breakdown
+E022b,R022,300,310,Material wait
+E023a,R023,60,70,Setup
+E023b,R023,300,310,Material wait
+E031a,R031,60,80,Setup
+E031b,R031,300,310,Material wait
+E032a,R032,60,130,Breakdown
+E032b,R032,300,310,Material wait
+E033a,R033,60,70,Setup
+E033b,R033,300,310,Material wait
+E041a,R041,60,80,Setup
+E041b,R041,300,310,Material wait
+E042a,R042,60,130,Breakdown
+E042b,R042,300,310,Material wait
+E043a,R043,60,70,Setup
+E043b,R043,300,310,Material wait
+E051a,R051,60,80,Setup
+E051b,R051,300,310,Material wait
+E052a,R052,60,130,Breakdown
+E052b,R052,300,310,Material wait
+E053a,R053,60,70,Setup
+E053b,R053,300,310,Material wait
+E061a,R061,60,80,Setup
+E061b,R061,300,310,Material wait
+E062a,R062,60,130,Breakdown
+E062b,R062,300,310,Material wait
+E063a,R063,60,70,Setup
+E063b,R063,300,310,Material wait
+E071a,R071,60,80,Setup
+E071b,R071,300,310,Material wait
+E072a,R072,60,130,Breakdown
+E072b,R072,300,310,Material wait
+E073a,R073,60,70,Setup
+E073b,R073,300,310,Material wait
+E081a,R081,60,80,Setup
+E081b,R081,300,310,Material wait
+E082a,R082,60,130,Breakdown
+E082b,R082,300,310,Material wait
+E083a,R083,60,70,Setup
+E083b,R083,300,310,Material wait
+E091a,R091,60,80,Setup
+E091b,R091,300,310,Material wait
+E092a,R092,60,130,Breakdown
+E092b,R092,300,310,Material wait
+E093a,R093,60,70,Setup
+E093b,R093,300,310,Material wait
+E101a,R101,60,80,Setup
+E101b,R101,300,310,Material wait
+E102a,R102,60,130,Breakdown
+E102b,R102,300,310,Material wait
+E103a,R103,60,70,Setup
+E103b,R103,300,310,Material wait
+E111a,R111,60,80,Setup
+E111b,R111,300,310,Material wait
+E112a,R112,60,130,Breakdown
+E112b,R112,300,310,Material wait
+E113a,R113,60,70,Setup
+E113b,R113,300,310,Material wait
+E121a,R121,60,80,Setup
+E121b,R121,300,310,Material wait
+E122a,R122,60,130,Breakdown
+E122b,R122,300,310,Material wait
+E123a,R123,60,70,Setup
+E123b,R123,300,310,Material wait
+E131a,R131,60,80,Setup
+E131b,R131,300,310,Material wait
+E132a,R132,60,130,Breakdown
+E132b,R132,300,310,Material wait
+E133a,R133,60,70,Setup
+E133b,R133,300,310,Material wait
+E141a,R141,60,80,Setup
+E141b,R141,300,310,Material wait
+E142a,R142,60,130,Breakdown
+E142b,R142,300,310,Material wait
+E143a,R143,60,70,Setup
+E143b,R143,300,310,Material wait
+E151a,R151,60,80,Setup
+E151b,R151,300,310,Material wait
+E152a,R152,60,130,Breakdown
+E152b,R152,300,310,Material wait
+E153a,R153,60,70,Setup
+E153b,R153,300,310,Material wait
+E161a,R161,60,80,Setup
+E161b,R161,300,310,Material wait
+E162a,R162,60,130,Breakdown
+E162b,R162,300,310,Material wait
+E163a,R163,60,70,Setup
+E163b,R163,300,310,Material wait
+E171a,R171,60,80,Setup
+E171b,R171,300,310,Material wait
+E172a,R172,60,130,Breakdown
+E172b,R172,300,310,Material wait
+E173a,R173,60,70,Setup
+E173b,R173,300,310,Material wait
+E181a,R181,60,80,Setup
+E181b,R181,300,310,Material wait
+E182a,R182,60,130,Breakdown
+E182b,R182,300,310,Material wait
+E183a,R183,60,70,Setup
+E183b,R183,300,310,Material wait
+E191a,R191,60,80,Setup
+E191b,R191,300,310,Material wait
+E192a,R192,60,130,Breakdown
+E192b,R192,300,310,Material wait
+E193a,R193,60,70,Setup
+E193b,R193,300,310,Material wait
+E201a,R201,60,80,Setup
+E201b,R201,300,310,Material wait
+E202a,R202,60,130,Breakdown
+E202b,R202,300,310,Material wait
+E203a,R203,60,70,Setup
+E203b,R203,300,310,Material wait
+E211a,R211,60,80,Setup
+E211b,R211,300,310,Material wait
+E212a,R212,60,130,Breakdown
+E212b,R212,300,310,Material wait
+E213a,R213,60,70,Setup
+E213b,R213,300,310,Material wait
+E221a,R221,60,80,Setup
+E221b,R221,300,310,Material wait
+E222a,R222,60,130,Breakdown
+E222b,R222,300,310,Material wait
+E223a,R223,60,70,Setup
+E223b,R223,300,310,Material wait
+E231a,R231,60,80,Setup
+E231b,R231,300,310,Material wait
+E232a,R232,60,130,Breakdown
+E232b,R232,300,310,Material wait
+E233a,R233,60,70,Setup
+E233b,R233,300,310,Material wait
+E241a,R241,60,80,Setup
+E241b,R241,300,310,Material wait
+E242a,R242,60,130,Breakdown
+E242b,R242,300,310,Material wait
+E243a,R243,60,70,Setup
+E243b,R243,300,310,Material wait
+E251a,R251,60,80,Setup
+E251b,R251,300,310,Material wait
+E252a,R252,60,130,Breakdown
+E252b,R252,300,310,Material wait
+E253a,R253,60,70,Setup
+E253b,R253,300,310,Material wait
+E261a,R261,60,80,Setup
+E261b,R261,300,310,Material wait
+E262a,R262,60,130,Breakdown
+E262b,R262,300,310,Material wait
+E263a,R263,60,70,Setup
+E263b,R263,300,310,Material wait
+E271a,R271,60,80,Setup
+E271b,R271,300,310,Material wait
+E272a,R272,60,130,Breakdown
+E272b,R272,300,310,Material wait
+E273a,R273,60,70,Setup
+E273b,R273,300,310,Material wait
+E281a,R281,60,80,Setup
+E281b,R281,300,310,Material wait
+E282a,R282,60,130,Breakdown
+E282b,R282,300,310,Material wait
+E283a,R283,60,70,Setup
+E283b,R283,300,310,Material wait
+E291a,R291,60,80,Setup
+E291b,R291,300,310,Material wait
+E292a,R292,60,130,Breakdown
+E292b,R292,300,310,Material wait
+E293a,R293,60,70,Setup
+E293b,R293,300,310,Material wait
+E301a,R301,60,80,Setup
+E301b,R301,300,310,Material wait
+E302a,R302,60,130,Breakdown
+E302b,R302,300,310,Material wait
+E303a,R303,60,70,Setup
+E303b,R303,300,310,Material wait
+BAD_TIME,R011,30,10,Breakdown
+BAD_RUN,R999,30,40,Setup
