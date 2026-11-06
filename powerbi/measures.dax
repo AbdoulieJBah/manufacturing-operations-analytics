@@ -1,0 +1,13 @@
+// Create each measure separately with New measure. Names before '=' are measure names.
+// Not executed in a DAX engine; reconcile in Power BI using reconciliation.md.
+Planned Minutes = SUM(production[planned_minutes])
+Downtime Minutes = SUM(downtime[downtime_minutes])
+Downtime Rate = DIVIDE([Downtime Minutes], [Planned Minutes])
+Input kg = SUM(production[input_qty])
+Waste kg = SUM(production[waste_qty])
+Waste Rate = DIVIDE([Waste kg], [Input kg])
+Delivered Orders = SUM(delivery_order[is_delivered])
+On Time Orders = SUM(delivery_order[is_on_time])
+On Time Delivery Rate = DIVIDE([On Time Orders], [Delivered Orders])
+Outstanding Overdue Orders = SUM(delivery_order[is_outstanding_overdue])
+As Of Date = MAX(settings[as_of_date])
